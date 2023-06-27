@@ -52,7 +52,7 @@ function Header() {
                         </Nav>
                     </Navbar.Collapse>
                     <Button className='btn-warning'>
-                        <Link to="./contactvefe">Contact Us</Link>
+                        <Link to="./contact">Contact Us</Link>
                     </Button>
                 </Container>
             </Navbar >
